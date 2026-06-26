@@ -1,0 +1,15 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Sensitive Configurations
+config.py
+
+# Local Logs & Data
+*.log
+sakani_data.json
+sakani_results.json
+sakani_api_dump.json
+.idea/
